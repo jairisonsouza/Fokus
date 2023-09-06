@@ -18,4 +18,4 @@ O tempo é decorrido de forma regressiva e a página emite um alerta (visual e s
 
 ## Acesse:
 Confira os detalhes interagindo diretamente com o projeto através do link:
-https://jairisonsouza.github.io/Fokus/
+https://fokus-kappa.vercel.app/
